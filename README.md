@@ -43,7 +43,7 @@ pip install scikit-learn opencv-python numpy matplotlib
 python lions_mapper_ai.py path_to_image_map.png [R,G,B]
 ```
 
-![TERMINAL STATION MAP](./assets/sample_maps.jpg)
+![TERMINAL STATION MAP](./assets/sample_map.jpg)
 
 This will:
 
