@@ -71,7 +71,7 @@ We'll soon include sample map images and visual route outputs.
 * **#Asytrick**
 * GitHub: [github.com/@ssmool](https://github.com/ssmool)
 * Email: [eusmool@gmail.com](mailto:eusmool@gmail.com)
-* Repositorie: [github.com/ssmool/PYAISPINLINE](github.com/ssmool/PYAISPINLINE)])
+* Repositorie: [github.com/ssmool/PYAISPINLINE](github.com/ssmool/PYAISPINLINE)
 ---
 
 ## ⚠️ Disclaimer
